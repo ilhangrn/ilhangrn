@@ -1,7 +1,7 @@
-- 👋 Hi, I’m ilhan
-- 👀 I’m interested in learning, discovery
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on challenge
+- 👋 Hi, you can call me Benjamin
+- 👀 Interested in learning, discovery
+- 🌱 Currently learning Rust
+- 💞️ Looking forward to collaborate on challenges
 - 📫 You can reach me if you want..
 
 <!---
