@@ -1,7 +1,7 @@
 ## Here we are 👋
 
 - 🌱 I’m currently learning
-    - Rust
+    - [Rust](https://doc.rust-lang.org/book/index.html)
     - Building systems like [Cmake](https://cmake.org), [Meson](https://mesonbuild.com)
     - More [Linux](https://hub.docker.com/search?type=image&categories=Internet+of+Things&categories=Operating+Systems&operating_system=linux)
     - More RTOS like [Zephyr](https://www.zephyrproject.org)
