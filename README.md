@@ -1,16 +1,14 @@
-## Hi there 👋
+## Here we are 👋
 
-<!--
-**ilhangrn/ilhangrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning
+    - Rust
+    - Building systems like [Cmake](https://cmake.org), [Meson](https://mesonbuild.com)
+    - More [Linux](https://hub.docker.com/search?type=image&categories=Internet+of+Things&categories=Operating+Systems&operating_system=linux)
+    - More RTOS like [Zephyr](https://www.zephyrproject.org)
+    - More Simulations like [Wokwi](https://wokwi.com), [Simulide](https://simulide.com/p), and [Mcuviewer](https://hackaday.io/project/192657-mcuviewer)
+    - And more like always
+- 👯 I’m looking to collaborate for a better.
+- 💬 Ask me about C, embedded system issues.
+- 📫 How to reach me: [rustynotes.com](https://rustynotes.com)
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Let's play tennis.
