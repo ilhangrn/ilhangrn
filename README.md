@@ -6,7 +6,7 @@
     - More [Linux](https://hub.docker.com/search?type=image&categories=Internet+of+Things&categories=Operating+Systems&operating_system=linux)
     - More RTOS like [Zephyr](https://www.zephyrproject.org)
     - More Simulations like [Wokwi](https://wokwi.com), [Simulide](https://simulide.com/p), and [Mcuviewer](https://hackaday.io/project/192657-mcuviewer)
-    - And more like always
+    - And more, like always.
 - 👯 I’m looking to collaborate for a better.
 - 💬 Ask me about C, embedded system issues.
 - 📫 How to reach me: [rustynotes.com](https://rustynotes.com)
